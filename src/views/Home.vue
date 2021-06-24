@@ -71,6 +71,7 @@ export default defineComponent({
     };
     getDiscover();
 
+    // 搜索按钮
     const iconClick = (): void => {
       console.log("icon click", data.inputValue);
     };
