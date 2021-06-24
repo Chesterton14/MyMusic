@@ -25,7 +25,7 @@
   <div class="discover-container">
     <section class="discover-title">
       Discover
-      <!-- <span style="font-size: 1.5rem">发现</span> -->
+      <span style="font-size: 1.5rem">发现</span>
     </section>
   </div>
 </template>
